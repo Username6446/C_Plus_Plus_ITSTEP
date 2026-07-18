@@ -1,0 +1,13 @@
+﻿  Project8.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project8\Project8.cpp(96,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project8\Project8.cpp(87,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+      C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project8\Project8.cpp(87,11):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project8\Project8.cpp(243,39):
+          see reference to function template instantiation 'int firstIndexOfElem<std::string>(T [],size_t,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  
+  Project8.vcxproj -> C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project8\x64\Debug\Project8.exe

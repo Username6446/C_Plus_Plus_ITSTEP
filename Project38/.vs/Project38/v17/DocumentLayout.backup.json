@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF725B3-3362-444F-BE05-3C918127F6E7}|Project38.vcxproj|C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\Project38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF725B3-3362-444F-BE05-3C918127F6E7}|Project38.vcxproj|solutionrelative:Project38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF725B3-3362-444F-BE05-3C918127F6E7}|Project38.vcxproj|C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\MyException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF725B3-3362-444F-BE05-3C918127F6E7}|Project38.vcxproj|solutionrelative:MyException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF725B3-3362-444F-BE05-3C918127F6E7}|Project38.vcxproj|C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\exception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1FF725B3-3362-444F-BE05-3C918127F6E7}|Project38.vcxproj|solutionrelative:exception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyException.h",
+              "DocumentMoniker": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\MyException.h",
+              "RelativeDocumentMoniker": "MyException.h",
+              "ToolTip": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\MyException.h",
+              "RelativeToolTip": "MyException.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T18:37:23.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exception.h",
+              "DocumentMoniker": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\exception.h",
+              "RelativeDocumentMoniker": "exception.h",
+              "ToolTip": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\exception.h",
+              "RelativeToolTip": "exception.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-26T18:11:49.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project38.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\Project38.cpp",
+              "RelativeDocumentMoniker": "Project38.cpp",
+              "ToolTip": "C:\\Users\\\u0406\u0432\u0430\u043D\\source\\repos\\ITSTEP\\C_plus_plus\\Project38\\Project38.cpp",
+              "RelativeToolTip": "Project38.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T18:07:00.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

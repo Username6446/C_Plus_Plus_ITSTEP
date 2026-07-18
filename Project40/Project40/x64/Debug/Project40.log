@@ -1,0 +1,4 @@
+﻿  Project40.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project40\Project40.cpp(51,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project40\Project40.cpp(82,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project40.vcxproj -> C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project40\x64\Debug\Project40.exe

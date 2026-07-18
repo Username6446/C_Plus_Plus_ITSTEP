@@ -1,0 +1,22 @@
+﻿  Project13_DZ.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(31,11): error C2601: 'insertChar': local function definitions are illegal
+      C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(27,48):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(59,6): error C2601: 'func4': local function definitions are illegal
+      C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(27,48):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(72,5): error C2601: 'func5': local function definitions are illegal
+      C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(27,48):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(86,5): error C2601: 'func6': local function definitions are illegal
+      C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(27,48):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(97,5): error C2601: 'main': local function definitions are illegal
+      C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(27,48):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13_DZ\Project13_DZ.cpp(27,48): error C1075: '{': no matching token found

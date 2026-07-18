@@ -1,0 +1,3 @@
+﻿  Project13.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13\Project13.cpp(10,9): error C2065: 'str': undeclared identifier
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project13\Project13.cpp(228,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data

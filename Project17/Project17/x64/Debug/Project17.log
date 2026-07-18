@@ -1,0 +1,4 @@
+﻿  control_library.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project17\control_library.cpp(31,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project17\control_library.cpp(41,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Project17.vcxproj -> C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project17\x64\Debug\Project17.exe

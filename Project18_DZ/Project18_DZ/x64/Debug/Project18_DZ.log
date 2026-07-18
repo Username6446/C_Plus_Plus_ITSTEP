@@ -1,0 +1,4 @@
+﻿  Project18_DZ.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project18_DZ\Project18_DZ.cpp(17,20): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project18_DZ\Project18_DZ.cpp(26,20): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  Project18_DZ.vcxproj -> C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project18_DZ\x64\Debug\Project18_DZ.exe

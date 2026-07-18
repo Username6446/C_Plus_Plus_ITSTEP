@@ -1,0 +1,4 @@
+Hello, World!
+This is a simple test message.
+123 numbers should remain as digits.
+Vowels and consonants should be counted correctly.

@@ -1,0 +1,4 @@
+﻿  Project9_DZ.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project9_DZ\Project9_DZ.cpp(110,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project9_DZ\Project9_DZ.cpp(151,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project9_DZ.vcxproj -> C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project9_DZ\x64\Debug\Project9_DZ.exe

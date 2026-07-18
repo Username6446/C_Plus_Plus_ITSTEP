@@ -1,0 +1,5 @@
+Num of symbols :: 474
+Num of lines :: 4
+Num of vowels :: 203
+Num of consonants :: 260
+Num of digits :: 11

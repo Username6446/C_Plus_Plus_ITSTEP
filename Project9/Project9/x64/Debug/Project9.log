@@ -1,0 +1,4 @@
+﻿  Project9.cpp
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project9\Project9.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project9\Project9.cpp(170,1): warning C4715: 'binarySearch<int>': not all control paths return a value
+  Project9.vcxproj -> C:\Users\Іван\source\repos\ITSTEP\C_plus_plus\Project9\x64\Debug\Project9.exe
